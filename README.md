@@ -29,7 +29,7 @@ The App Brewery - iOS Development Bootcamp
 
 ## Скриншоты
 
-<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/20caeb6c-d936-42e7-8025-987f554aff27" />
+<img src="https://github.com/user-attachments/assets/20caeb6c-d936-42e7-8025-987f554aff27" alt="Magic 8 Ball screenshot" width="50%" />
 
 ---
 
@@ -62,4 +62,4 @@ Code implemented by Arina Agafonova for educational purposes.
 
 ## Screenshots
 
-<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/aa57af4b-2380-4fc7-8d00-826f7025619b" />
+<img src="https://github.com/user-attachments/assets/20caeb6c-d936-42e7-8025-987f554aff27" alt="Magic 8 Ball screenshot" width="50%" />
